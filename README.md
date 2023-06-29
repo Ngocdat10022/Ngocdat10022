@@ -1,7 +1,7 @@
 
 
 
-Hi! Here some our recommendations to get the best out of BLACKBOX:
+Hi! I'm NgocDat
 
 Be as clear as possible
 
