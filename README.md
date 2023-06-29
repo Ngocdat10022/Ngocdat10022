@@ -1,12 +1,12 @@
 
 <h1 align="center"><b>Hi , I'm NgocDat </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-    <img width="500" src="https://scontent.fdad1-2.fna.fbcdn.net/v/t39.30808…E3XFTlmvILONMaOOMzxD_rkKQhzz19NAXFZUw&oe=64A2069F">
+    <img width="500" src="https://scontent.fdad1-2.fna.fbcdn.net/v/t39.30808-6/307444527_1274631903375034_543478671407240575_n.jpg?stp=cp6_dst-jpg&_nc_cat=106&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=IK42wFDeziQAX8uIm_w&_nc_ht=scontent.fdad1-2.fna&oh=00_AfCltZZVfE3XFTlmvILONMaOOMzxD_rkKQhzz19NAXFZUw&oe=64A2069F">
 </p>
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
 </p>
-
+ -->
 
 <br>
 
