@@ -25,7 +25,7 @@
 
 	
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+<picture> <img align="right" src="https://scontent.fdad1-2.fna.fbcdn.net/v/t39.30808-6/307444527_1274631903375034_543478671407240575_n.jpg?stp=cp6_dst-jpg&_nc_cat=106&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=IK42wFDeziQAX8uIm_w&_nc_ht=scontent.fdad1-2.fna&oh=00_AfCltZZVfE3XFTlmvILONMaOOMzxD_rkKQhzz19NAXFZUw&oe=64A2069F" width = 250px></picture>
 
 <br><br>
 
