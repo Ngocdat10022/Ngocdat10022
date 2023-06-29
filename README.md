@@ -105,8 +105,7 @@
 ---
 
 <br>
-
-Credit: [Abdul Khalid](https://github.com/0xabdulkhalid)
-
-Last Edited on: 09/11/2022
-1
+<picture> <img align="center" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 900px></picture>
+<br>
+<em><b>Never give up. No matter how difficult it gets, remember that you have overcome greater challenges in the past, and you can conquer this one too.</b> 💜</em>
+<br>
