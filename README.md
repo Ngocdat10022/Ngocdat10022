@@ -21,16 +21,13 @@
 
 <br>
 
-
-
-	
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 <picture> <img align="right" src="https://scontent.fdad1-2.fna.fbcdn.net/v/t39.30808-6/307444527_1274631903375034_543478671407240575_n.jpg?stp=cp6_dst-jpg&_nc_cat=106&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=IK42wFDeziQAX8uIm_w&_nc_ht=scontent.fdad1-2.fna&oh=00_AfCltZZVfE3XFTlmvILONMaOOMzxD_rkKQhzz19NAXFZUw&oe=64A2069F" width = 250px></picture>
 
 <br><br>
 
 - :school: I am a final year student of Danang University of Technical Education.
-- :technologist: I love using Software as a solution for every `Problem`.
+- :technologist: I love web programming.
 - :student: I’m currently learning `FrontEnd`.
 - :nerd_face: Always `learning new things`.
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1Vu_B7RQ7r7CdL-sq0TAr7vSP-fYN1TGj/view?usp=sharing).
