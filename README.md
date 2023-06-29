@@ -3,22 +3,6 @@
 
 Hi! I'm NgocDat
 
-Be as clear as possible
-
-There is no need commas (,) and any punctuation
-
-Try ending the question in what language you want the answer to be, e.g: ‘connect to mongodb in node js’
-or you can just
-Watch tutorial video
-Here are some suggestion (choose one):
-Write a function that reads data from a json file
-How to delete docs from mongodb in phyton
-Connect to mongodb in nodejs
-Ask any coding question
-send
-refresh
-Blackbox AI Chat is in beta and Blackbox is not liable for the content generated. By using Blackbox, you acknowledge that you agree to agree to Blackbox's Terms and Privacy Policy
-
 <h1 align="center"><b>Hi , I'm NgocDat </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
