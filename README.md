@@ -91,21 +91,7 @@
 <br>
 <br>
 <br>
-
-<div align='center'>
-
-## <b>السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ...✨</b>
-
-</div>
 <br>
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 900px></picture>
 <br>
-<br>
-<br>
-
----
-
-<br>
-<picture> <img align="center" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 900px></picture>
-<br>
-<em><b>Never give up. No matter how difficult it gets, remember that you have overcome greater challenges in the past, and you can conquer this one too.</b> 💜</em>
 <br>
